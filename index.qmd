@@ -14,14 +14,14 @@ about:
       url: "malito:jasmineyung@ucla.edu"
 ---
 
-Jasmine Yung is a senior at UCLA. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download [my CV](/jasmine.PNG).
+Jasmine Yung is a senior at UCLA, graduating in June 2025. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download [my resume](/jasmine.PNG).
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA \n
+University of California, Los Angeles | Los Angeles, CA  
 Bachelor of Science in Statistics & Data Science | Minor in Public Affairs | Sep 2021 - Jun 2025
 
-Cambridge University | Cambridge, UK \n
+Cambridge University | Cambridge, UK  
 Summer International Programme | Jul 2022 - Aug 2022
 
 ## Experience
