@@ -1,0 +1,15 @@
+{
+  "hash": "5038ae96c8f44eb7600822c5b2c7cc02",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ndate: \"Feb 27, 2025\"\ntitle: \"Project 1\"\nauthor: \"Jasmine Yung\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(1:5)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 1 2 3 4 5\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Jasmine Yung",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nx = 10\nprint(10)\n\n[1] 10\n\nx = 15\nprint(x)\n\n[1] 15"
+    "text": "Jasmine Yung is a senior at UCLA. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download my CV."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jasmine Yung",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Bachelor of Science in Statistics & Data Science | Minor in Public Affairs | Sep 2021 - Jun 2025\nCambridge University | Cambridge, UK Summer International Programme | Jul 2022 - Aug 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jasmine Yung",
+    "section": "Experience",
+    "text": "Experience\nHouse of Ari Jogiel | Fashion & Business Operations Intern | Jan 2025 - present\nBrazil Mayors Lab - Christopher Poliquin | Data Science Research Assistant | Sep 2023 - present\nUCLA Recreation | Operations Supervisor | Jan 2022 - present\nGoTackle | Data Analytics Intern | Jun 2024 - Sep 2024\nBridgetree, LLC | Analytics Intern Summer 2024 | Jun 2024 - Sep 2024"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "print(1:5)\n\n[1] 1 2 3 4 5"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "print(1:10)\n\n [1]  1  2  3  4  5  6  7  8  9 10"
   }
 ]

@@ -1,19 +1,37 @@
 ---
-title: "personal-website"
+title: "Jasmine Yung"
+about:
+  template: broadside
+  image: jasmine.PNG
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/jasminejyung/
+    - icon: github
+      text: Github
+      href: https://github.com/jasmineyung
+    - text: Email
+      url: "malito:jasmineyung@ucla.edu"
 ---
 
-This is a Quarto website.
+Jasmine Yung is a senior at UCLA. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download [my CV](/jasmine.PNG).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA \n
+Bachelor of Science in Statistics & Data Science | Minor in Public Affairs | Sep 2021 - Jun 2025
 
-```{r}
-x = 10
-print(10)
+Cambridge University | Cambridge, UK \n
+Summer International Programme | Jul 2022 - Aug 2022
 
-x = 15
-print(x)
-```
+## Experience
+
+House of Ari Jogiel | **Fashion & Business Operations Intern** | Jan 2025 - present
+
+Brazil Mayors Lab - Christopher Poliquin | **Data Science Research Assistant** | Sep 2023 - present
+
+UCLA Recreation | **Operations Supervisor** | Jan 2022 - present
+
+GoTackle | **Data Analytics Intern** | Jun 2024 - Sep 2024
+
+Bridgetree, LLC | **Analytics Intern Summer 2024** | Jun 2024 - Sep 2024
