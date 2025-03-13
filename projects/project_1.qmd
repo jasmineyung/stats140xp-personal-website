@@ -1,9 +1,11 @@
 ---
-date: "Feb 27, 2025"
-title: "Project 1"
+date: "Feb 17, 2025"
+title: "Coping With COVID-19-Related Anti-Asian Racism and Depressive Symptoms: The Role of Social Support"
 author: "Jasmine Yung"
 ---
 
-```{r}
-print(1:5)
-```
+**Digital Equity & Anti-Oppression Lab**
+
+Authors: Brian TaeHyuk Keum, Michele Wong, Lucy Xie, Irene C. Valdovinos, Jung Yun Na, Bryzen Enzo Morales, and Jasmine Yung
+
+Read here: <https://dx.doi.org/10.1037/ort0000835>

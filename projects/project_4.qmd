@@ -1,0 +1,11 @@
+---
+date: "Dec 21, 2023"
+title: "Healthcare Assessment of Asian Elderly in San Francisco"
+author: "Jasmine Yung"
+---
+
+**DataRes at UCLA**
+
+Janet Yu (project lead), Millie Huang, Jasmine Yung, Queenie Wu, Ethan Rauchwerk, Allison Chen, Kaera Mishenkov Mitchen, Dakota Lin
+
+Read our article here:  [https://ucladatares.medium.com/healthcare-assessment-of-asian-elderly-in-san-francisco-169a9364dd95](https://ucladatares.medium.com/healthcare-assessment-of-asian-elderly-in-san-francisco-169a9364dd95)

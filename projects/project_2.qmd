@@ -1,10 +1,11 @@
 ---
-date: "Feb 26, 2025"
-title: "Project 2"
+date: "Jul 2, 2024"
+title: "Analysis of Effects of Mental Health on Physical Health"
 author: "Jasmine Yung"
 ---
 
-```{r}
-print(1:10)
-```
+**DataRes at UCLA**
 
+Authors: Alvin Huang (Project Lead), Rachel Szeto, Jasmine Yung, Jordan Nguyen
+
+Read our article here:  [https://ucladatares.medium.com/analysis-of-effects-of-mental-health-on-physical-health-8f6a5164127a](https://ucladatares.medium.com/analysis-of-effects-of-mental-health-on-physical-health-8f6a5164127a)

@@ -32,21 +32,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n## hay\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 1\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\nNo matching items"
+    "text": "Read below to learn more about my projects!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Effects of Mental Health on Physical Health\n\n\n\n\n\n\n\n\n\n\n\nJul 2, 2024\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nCoping With COVID-19-Related Anti-Asian Racism and Depressive Symptoms: The Role of Social Support\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nExamining Sexism in Hollywood\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2024\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Assessment of Asian Elderly in San Francisco\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\nJasmine Yung\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_1.html",
     "href": "projects/project_1.html",
-    "title": "Project 1",
+    "title": "Coping With COVID-19-Related Anti-Asian Racism and Depressive Symptoms: The Role of Social Support",
     "section": "",
-    "text": "print(1:5)\n\n[1] 1 2 3 4 5"
+    "text": "Digital Equity & Anti-Oppression Lab\nAuthors: Brian TaeHyuk Keum, Michele Wong, Lucy Xie, Irene C. Valdovinos, Jung Yun Na, Bryzen Enzo Morales, and Jasmine Yung\nRead here: https://dx.doi.org/10.1037/ort0000835"
   },
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
-    "title": "Project 2",
+    "title": "Analysis of Effects of Mental Health on Physical Health",
     "section": "",
-    "text": "print(1:10)\n\n [1]  1  2  3  4  5  6  7  8  9 10"
+    "text": "DataRes at UCLA\nAuthors: Alvin Huang (Project Lead), Rachel Szeto, Jasmine Yung, Jordan Nguyen\nRead our article here: https://ucladatares.medium.com/analysis-of-effects-of-mental-health-on-physical-health-8f6a5164127a"
   },
   {
     "objectID": "index.html#professional-experience",
@@ -54,5 +54,19 @@
     "title": "Jasmine Yung",
     "section": "Professional Experience",
     "text": "Professional Experience\nHouse of Ari Jogiel | Fashion & Business Operations Intern | Jan 2025 - present\nBrazil Mayors Lab - Christopher Poliquin | Data Science Research Assistant | Sep 2023 - present\nUCLA Recreation | Operations Supervisor | Jan 2022 - present\nGoTackle | Data Analytics Intern | Jun 2024 - Sep 2024\nBridgetree, LLC | Analytics Intern Summer 2024 | Jun 2024 - Sep 2024"
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Examining Sexism in Hollywood",
+    "section": "",
+    "text": "DataRes at UCLA\nAuthors: Megha Velakacharla (Project Lead), Yulia Anashkina, Nathan Chen, Millie Huang, Ethan Rauchwerk, Jasmine Yung\nRead our article here: https://ucladatares.medium.com/examining-sexism-in-hollywood-1f998eed23fc"
+  },
+  {
+    "objectID": "projects/project_4.html",
+    "href": "projects/project_4.html",
+    "title": "Healthcare Assessment of Asian Elderly in San Francisco",
+    "section": "",
+    "text": "DataRes at UCLA\nJanet Yu (project lead), Millie Huang, Jasmine Yung, Queenie Wu, Ethan Rauchwerk, Allison Chen, Kaera Mishenkov Mitchen, Dakota Lin\nRead our article here: https://ucladatares.medium.com/healthcare-assessment-of-asian-elderly-in-san-francisco-169a9364dd95"
   }
 ]
