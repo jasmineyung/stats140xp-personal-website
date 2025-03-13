@@ -14,7 +14,7 @@ about:
       url: "malito:jasmineyung@ucla.edu"
 ---
 
-Jasmine Yung is a senior at UCLA, graduating in June 2025. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. 
+Hello, I'm Jasmine! I'm a senior at UCLA, graduating in June 2025. Outside of my academic interests in Statistics and Public Affairs, I enjoy fashion, dancing, exploring LA, and spending time with friends and family. 
 
 Want to learn more about me? Download my resume [here](/Jasmine_Yung_resume.pdf).
 
