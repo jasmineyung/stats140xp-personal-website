@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jasmine Yung",
     "section": "",
-    "text": "Jasmine Yung is a senior at UCLA, graduating in June 2025. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download my resume."
+    "text": "Jasmine Yung is a senior at UCLA, graduating in June 2025. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family.\nWant to learn more about me? Download my resume here."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Jasmine Yung",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nBachelor of Science in Statistics & Data Science | Minor in Public Affairs | Sep 2021 - Jun 2025\nCambridge University | Cambridge, UK\nSummer International Programme | Jul 2022 - Aug 2022"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | Sep 2021 - Jun 2025\nBachelor of Science in Statistics & Data Science | Minor in Public Affairs\nCambridge University | Cambridge, UK | Jul 2022 - Aug 2022\nSummer International Programme"
   },
   {
     "objectID": "index.html#experience",
@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\nNo matching items"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n## hay\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 1\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2025\n\n\nJasmine Yung\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_1.html",
@@ -47,5 +47,12 @@
     "title": "Project 2",
     "section": "",
     "text": "print(1:10)\n\n [1]  1  2  3  4  5  6  7  8  9 10"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Jasmine Yung",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nHouse of Ari Jogiel | Fashion & Business Operations Intern | Jan 2025 - present\nBrazil Mayors Lab - Christopher Poliquin | Data Science Research Assistant | Sep 2023 - present\nUCLA Recreation | Operations Supervisor | Jan 2022 - present\nGoTackle | Data Analytics Intern | Jun 2024 - Sep 2024\nBridgetree, LLC | Analytics Intern Summer 2024 | Jun 2024 - Sep 2024"
   }
 ]

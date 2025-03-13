@@ -7,4 +7,3 @@ author: "Jasmine Yung"
 ```{r}
 print(1:5)
 ```
-

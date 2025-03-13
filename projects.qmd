@@ -6,9 +6,4 @@ listing:
     - "projects/*.qmd"
 ---
 
-About this site
-
-```{r}
-1 + 1
-## hay
-```
+Read below to learn more about my projects!
