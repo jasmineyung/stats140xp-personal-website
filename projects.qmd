@@ -6,4 +6,4 @@ listing:
     - "projects/*.qmd"
 ---
 
-Read below to learn more about my projects!
+Read below to view projects I've been involved in! To learn more about my experience, view my  [resume](/Jasmine_Yung_resume.pdf).
