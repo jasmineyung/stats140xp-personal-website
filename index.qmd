@@ -14,24 +14,24 @@ about:
       url: "malito:jasmineyung@ucla.edu"
 ---
 
-Jasmine Yung is a senior at UCLA, graduating in June 2025. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download [my resume](/jasmine.PNG).
+Jasmine Yung is a senior at UCLA, graduating in June 2025. Outside of her academic interests in Statistics and Public Affiars, Jasmine enjoys fashion, dancing, exploring LA, and spending time with friends and family. Download [my resume](/Jasmine_Yung_resume.pdf).
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA  
-Bachelor of Science in Statistics & Data Science | Minor in Public Affairs | Sep 2021 - Jun 2025
+University of California, Los Angeles \| Los Angeles, CA \| Sep 2021 - Jun 2025\
+Bachelor of Science in Statistics & Data Science \| Minor in Public Affairs
 
-Cambridge University | Cambridge, UK  
-Summer International Programme | Jul 2022 - Aug 2022
+Cambridge University \| Cambridge, UK\| Jul 2022 - Aug 2022\
+Summer International Programme 
 
-## Experience
+## Professional Experience
 
-House of Ari Jogiel | **Fashion & Business Operations Intern** | Jan 2025 - present
+House of Ari Jogiel \| **Fashion & Business Operations Intern** \| Jan 2025 - present
 
-Brazil Mayors Lab - Christopher Poliquin | **Data Science Research Assistant** | Sep 2023 - present
+Brazil Mayors Lab - Christopher Poliquin \| **Data Science Research Assistant** \| Sep 2023 - present
 
-UCLA Recreation | **Operations Supervisor** | Jan 2022 - present
+UCLA Recreation \| **Operations Supervisor** \| Jan 2022 - present
 
-GoTackle | **Data Analytics Intern** | Jun 2024 - Sep 2024
+GoTackle \| **Data Analytics Intern** \| Jun 2024 - Sep 2024
 
-Bridgetree, LLC | **Analytics Intern Summer 2024** | Jun 2024 - Sep 2024
+Bridgetree, LLC \| **Analytics Intern Summer 2024** \| Jun 2024 - Sep 2024

@@ -5,3 +5,10 @@ listing:
   contents:
     - "projects/*.qmd"
 ---
+
+About this site
+
+```{r}
+1 + 1
+## hay
+```
